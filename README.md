@@ -18,6 +18,7 @@ I have hands-on experience in building and programming robots to solve real-worl
 7. Line Follower Robot: Developed a bot programmed to follow a specific line path autonomously, emphasizing real-time path tracking.
    
 Hackathons
+
 Co-created "MY-Health, MY-Wealth", an app focusing on health and financial well-being, presented at my high school’s TechFest.
 
 ### 🌟 **Leadership & Volunteering**  
