@@ -1,9 +1,5 @@
 # 👋 About Me  
 
-Hi there! I'm **Krithika Kannan**, a passionate and driven **Computer Science undergraduate** at the **University of Waterloo**, Canada. My journey in tech is fueled by curiosity and a commitment to making a difference through innovative solutions. From organizing events to developing impactful projects, I enjoy exploring opportunities that challenge me and foster collaboration.  
-
-
-👋 About Me
 Hi there! I'm Krithika Kannan, a passionate and driven Computer Science undergraduate at the University of Waterloo, Canada. My journey in tech is fueled by curiosity and a commitment to making a difference through innovative solutions. From organizing events to developing impactful projects, I enjoy exploring opportunities that challenge me and foster collaboration.
 
 🚀 About My Work
