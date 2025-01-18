@@ -23,23 +23,24 @@ Co-created "MY-Health, MY-Wealth", an app focusing on health and financial well-
 
 ### 🌟 **Leadership & Volunteering**  
 
-- **Marketing Coordinator & Event Coordinator** for the **Data Science Club** at the University of Waterloo:  
-  - Designed promotional strategies and facilitated workshops to boost engagement among students.  
-  - Organized events like the **CxC Data Hackathon**, fostering a collaborative environment for budding data scientists.
+-  **Computer Science Club** at the University of Waterloo:  
+  - As Marketing Coordinator, designed promotional strategies and facilitated workshops to boost engagement among students.  
+  - As Event Coordinator, organized tech events, fostering a collaborative environment for budding data scientists.
      
 - **Technovation Mentor** with **Women in CS (WiCS)**:  
   - Guided high school students to develop problem-solving skills through coding and tech solutions.  
   - Advocated for diversity and inclusion in the tech space through WiCS initiatives.
+  - Controlled the technical aspects of the event including event platform setup, live streaming, participant support, and technical rehearsals.
     
 - **Toastmasters Volunteer**:  
   - Served as the **Master of Ceremony** at a District Level Competition in Qatar, managing event flow and coordinating with a diverse team of volunteers.
   - As the **President of Zenith Gavels Club** , I supported the gavelliers in contests, speech preparation and in their overall development by organzing fortnight meetings and club competitions.
  
 - **Hindu Student Council**:  
-  - First Year Executive at HSC, where I led cultural events, managed tech aspects, and strengthened community bonds.  
-
+  - First Year Executive at HSC, where I was a **First Year Executive** and led cultural events, managed tech aspects, and strengthened community bonds.  
 
 ## 🛠 Skills & Interests  
+
 ### 🧑‍💻 **Technical Skills**  
 - **Languages**: Python, Racket, HTML/CSS, JavaScript  
 - **Tools & Frameworks**: Scratch, Git, GitHub, APIs  
@@ -51,12 +52,10 @@ Co-created "MY-Health, MY-Wealth", an app focusing on health and financial well-
 - Robotics, focusing on automation and AI-based solutions  
 - Women in STEM advocacy  
 
-
  🎓 Highlights & Achievements  
 - **Academic Fiesta**: Been awarded the Proffiency award, Gold Medal and Special Award for being an academic scholar for the past 8 years at high school.
 - **Organizational Excellence**: As an **MUN Secretary General**, spearheaded conferences with meticulous planning and team coordination.  
 - **Hackathon Enthusiast**: Regularly participate in hackathons to sharpen my problem-solving skills and build impactful projects.  
-
 
 ## 🌱 Currently Learning  
 - Advanced robotics programming and integration of AI algorithms.  
