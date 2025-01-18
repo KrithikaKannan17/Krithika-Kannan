@@ -24,8 +24,8 @@ Co-created "MY-Health, MY-Wealth", an app focusing on health and financial well-
 ### 🌟 **Leadership & Volunteering**  
 
 -  **Computer Science Club** at the University of Waterloo:  
-  - As Marketing Coordinator, designed promotional strategies and facilitated workshops to boost engagement among students.  
-  - As Event Coordinator, organized tech events, fostering a collaborative environment for budding data scientists.
+      - As Marketing Coordinator, designed promotional strategies and facilitated workshops to boost engagement among students.  
+      - As Event Coordinator, organized tech events, fostering a collaborative environment for budding data scientists.
      
 - **Technovation Mentor** with **Women in CS (WiCS)**:  
   - Guided high school students to develop problem-solving skills through coding and tech solutions.  
