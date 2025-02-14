@@ -66,7 +66,7 @@ Co-created "MY-Health, MY-Wealth", an app focusing on health and financial well-
 - **LinkedIn**: [Krithika Kannan](https://www.linkedin.com/in/krithikakannan06/)  
 - **GitHub**: [@krithikakannan06](https://github.com/krithikakannan06)
 - **Youtube**:[@RoboRevolution](https://www.youtube.com/@RoboRevolution24)
-- **Personal-Website**:[KrithikaKannan17](https://krithikakannan17.github.io/Personal-Portfolio/)
+- **Website**:[Portfolio](https://krithikakannan17.github.io/Personal-Portfolio/)
 
 ### 🌟 Fun Fact  
 I am passionate about blending **tradition with innovation**, as reflected in my projects and community initiatives. From mentoring young minds to crafting tech solutions, my goal is to inspire and make an impact.
